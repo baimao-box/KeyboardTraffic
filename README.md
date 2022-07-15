@@ -4,4 +4,5 @@
 ```
 ./KeyboardTraffic.py [file]
 ```
-![image](https://user-images.githubusercontent.com/52622597/179159922-f1ac3335-2a1b-49b6-a1f1-77ce157a6d36.png)
+![image](https://user-images.githubusercontent.com/52622597/179160991-70ea984c-413e-472a-8b62-0bf67b9bd98e.png)
+
