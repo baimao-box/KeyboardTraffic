@@ -41,7 +41,7 @@ def flag():
 			output += mappings[n]
 		else:
 			output += '[unknown]'
-	print('\033[1;31;40moutput :\033[0m ' + output)
+	print('\033[1;31;40mFLAG :\033[0m ' + output)
 
 file_input = sys.argv
 time.sleep(0.5)
