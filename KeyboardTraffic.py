@@ -3,7 +3,6 @@
 import os
 import time
 import sys
-import readline
 
 def usbdata():
 	f=open('usbdata.txt','r')
